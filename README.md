@@ -1,4 +1,4 @@
-### Bootstrap 4 Ratings Card
+### Bootstrap 5 Ratings Card
 
 
 
